@@ -8,7 +8,8 @@
     "env": {
         "STRING_SESSION1": {
             "description": "fill with the Pyrogram v2 session string",
-            "required": true
+            "required": true,
+            "value": "BQE0HgUAIm-1cXDrivD4lCLrcTpLb6mz4brlUXTvCfx0ho_VHXnO7mYVx6NWTjv5T3Mkgw-wX4vV6PJDPNqW5WwmFRKvBd8rDI_42B_88bprhhdoIYsd1TtOOyUAZ5UawRiuXatvvHdlQzG_75ItzG3TAv6xZP9_wQCLUvV01QER3SD6GMgl_QplXm6VCInI08PCkIXYHZ03q94hfWMSpIXSZi5lnTp6TcQysiG0qHozPKdkuwYtGpOqTI9jbFDhi-L0NgwwzeAwPwwNfy9IaLyuODUqctXG9Bd2ZmsfcC7X-zHv-72jJ_RyjfgND-g_LfOVtehdwEJJ16PEhiz6Q-T2Gqt8EAAAAAF2gekrAA"
         },
         "MONGO_URL": {
             "description": "Fill there an mongo database from mongodb.com",
@@ -18,17 +19,17 @@
         "SUDO_USERS": {
             "description": "don't Change this there /id",
             "required": true,
-            "value": "6051510669"
+            "value": "6283192619"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd",
             "required": true,
-            "value": "6051510669"
+            "value": "6283192619"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": ""
+            "value": "7121304670:AAEFgFT739WHoUjpiuXPs03a6jEWy_t5QaE"
         }
 
     }
