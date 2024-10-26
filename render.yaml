@@ -4,7 +4,6 @@ services:
     name: RAUSHAN
     env: python
     buildCommand: pip install -U -r requirements.txt
-    startCommand: python3 -m RAUSHAN  
  repo:
 https://github.com/TEAMPURVI/ALPHA_USERBOT    
     branch: main
